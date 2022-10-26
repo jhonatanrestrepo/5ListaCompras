@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE listaCompras SYSTEM "ReglasCompras.dtd">
+<listaCompras>
+    <venta>
+        <ventaACredito>
+            <fechaFinPago>22-11-2023</fechaFinPago>
+            <cantidad>2</cantidad>
+        </ventaACredito>
+    </venta>
+    <venta>
+        <ventaInmediata>
+            <cantidad>8</cantidad>
+            <divisa>pesos colombianos</divisa>
+        </ventaInmediata>
+    </venta>
+    <venta>
+        <ventaACredito>
+            <cantidad>5</cantidad>
+        </ventaACredito>
+    </venta>
+</listaCompras>
